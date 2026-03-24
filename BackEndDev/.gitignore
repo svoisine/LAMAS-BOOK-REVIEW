@@ -1,0 +1,17 @@
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+#Large database
+*.db
+# macOS System Files
+.DS_Store
+
+# IDE / Editor Folders (VS Code)
+.vscode/
