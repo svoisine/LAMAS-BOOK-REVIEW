@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.LoginButton {
+  transition: transform 120ms ease, filter 120ms ease, box-shadow 120ms ease;
+  background-color: #8d6b4a;
+  color: #2E2E2E;
+}
+.LoginButton:hover {
+  background-color: #6B4F4F;
+}
+.SignupButton {
+  transition: transform 120ms ease, filter 120ms ease, box-shadow 120ms ease;
+  background-color: #8d6b4a;
+  color: #2E2E2E;
+}
+.SignupButton:hover {
+  background-color: #6B4F4F;
+}
