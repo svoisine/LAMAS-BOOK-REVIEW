@@ -35,7 +35,7 @@ function LoginPage() {
   };
 
   const handleSignupClick = (e) => {
-    // Keep it simple: treat signup the same way for now.
+    // I kept signup simple untill we have more to add later.
     e.preventDefault();
     setPassword(''); // UX: avoid accidental reuse
     navigate('/dashboard', {
